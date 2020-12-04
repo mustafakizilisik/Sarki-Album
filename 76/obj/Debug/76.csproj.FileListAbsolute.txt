@@ -1,0 +1,154 @@
+D:\Öğrenci Dosyaları\76\76\bin\Debug\76.exe.config
+D:\Öğrenci Dosyaları\76\76\bin\Debug\Db.mdf
+D:\Öğrenci Dosyaları\76\76\bin\Debug\Db_log.ldf
+D:\Öğrenci Dosyaları\76\76\bin\Debug\76.exe
+D:\Öğrenci Dosyaları\76\76\bin\Debug\76.pdb
+D:\Öğrenci Dosyaları\76\76\obj\Debug\76.csprojResolveAssemblyReference.cache
+D:\Öğrenci Dosyaları\76\76\obj\Debug\MainWindow.g.cs
+D:\Öğrenci Dosyaları\76\76\obj\Debug\Pages\KayıtAlbüm.g.cs
+D:\Öğrenci Dosyaları\76\76\obj\Debug\Pages\KayıtAlbümŞarkı.g.cs
+D:\Öğrenci Dosyaları\76\76\obj\Debug\Pages\KayıtKayıtYeri.g.cs
+D:\Öğrenci Dosyaları\76\76\obj\Debug\Pages\KayıtŞarkı.g.cs
+D:\Öğrenci Dosyaları\76\76\obj\Debug\Pages\KayıtŞarkıcı.g.cs
+D:\Öğrenci Dosyaları\76\76\obj\Debug\Pages\ListeleAlbüm.g.cs
+D:\Öğrenci Dosyaları\76\76\obj\Debug\Pages\ListeleAlbümŞarkı.g.cs
+D:\Öğrenci Dosyaları\76\76\obj\Debug\Pages\ListeleKayıtYeri.g.cs
+D:\Öğrenci Dosyaları\76\76\obj\Debug\Pages\ListeleŞarkı.g.cs
+D:\Öğrenci Dosyaları\76\76\obj\Debug\Pages\ListeleŞarkıcı.g.cs
+D:\Öğrenci Dosyaları\76\76\obj\Debug\App.g.cs
+D:\Öğrenci Dosyaları\76\76\obj\Debug\76_Content.g.cs
+D:\Öğrenci Dosyaları\76\76\obj\Debug\76_MarkupCompile.cache
+D:\Öğrenci Dosyaları\76\76\obj\Debug\76_MarkupCompile.lref
+D:\Öğrenci Dosyaları\76\76\obj\Debug\MainWindow.baml
+D:\Öğrenci Dosyaları\76\76\obj\Debug\Pages\KayıtAlbüm.baml
+D:\Öğrenci Dosyaları\76\76\obj\Debug\Pages\KayıtAlbümŞarkı.baml
+D:\Öğrenci Dosyaları\76\76\obj\Debug\Pages\KayıtKayıtYeri.baml
+D:\Öğrenci Dosyaları\76\76\obj\Debug\Pages\KayıtŞarkı.baml
+D:\Öğrenci Dosyaları\76\76\obj\Debug\Pages\KayıtŞarkıcı.baml
+D:\Öğrenci Dosyaları\76\76\obj\Debug\Pages\ListeleAlbüm.baml
+D:\Öğrenci Dosyaları\76\76\obj\Debug\Pages\ListeleAlbümŞarkı.baml
+D:\Öğrenci Dosyaları\76\76\obj\Debug\Pages\ListeleKayıtYeri.baml
+D:\Öğrenci Dosyaları\76\76\obj\Debug\Pages\ListeleŞarkı.baml
+D:\Öğrenci Dosyaları\76\76\obj\Debug\Pages\ListeleŞarkıcı.baml
+D:\Öğrenci Dosyaları\76\76\obj\Debug\76.g.resources
+D:\Öğrenci Dosyaları\76\76\obj\Debug\_76.Properties.Resources.resources
+D:\Öğrenci Dosyaları\76\76\obj\Debug\76.csproj.GenerateResource.Cache
+D:\Öğrenci Dosyaları\76\76\obj\Debug\76.exe
+D:\Öğrenci Dosyaları\76\76\obj\Debug\76.pdb
+C:\Users\win7\Desktop\76\76\bin\Debug\76.exe.config
+C:\Users\win7\Desktop\76\76\obj\Debug\76.exe
+C:\Users\win7\Desktop\76\76\obj\Debug\76.pdb
+C:\Users\win7\Desktop\76\76\bin\Debug\Db.mdf
+C:\Users\win7\Desktop\76\76\bin\Debug\Db_log.ldf
+C:\Users\win7\Desktop\76\76\bin\Debug\76.exe
+C:\Users\win7\Desktop\76\76\bin\Debug\76.pdb
+C:\Users\win7\Desktop\76\76\obj\Debug\76.csprojResolveAssemblyReference.cache
+C:\Users\win7\Desktop\76\76\obj\Debug\MainWindow.g.cs
+C:\Users\win7\Desktop\76\76\obj\Debug\Pages\KayıtAlbüm.g.cs
+C:\Users\win7\Desktop\76\76\obj\Debug\Pages\KayıtAlbümŞarkı.g.cs
+C:\Users\win7\Desktop\76\76\obj\Debug\Pages\KayıtKayıtYeri.g.cs
+C:\Users\win7\Desktop\76\76\obj\Debug\Pages\KayıtŞarkı.g.cs
+C:\Users\win7\Desktop\76\76\obj\Debug\Pages\KayıtŞarkıcı.g.cs
+C:\Users\win7\Desktop\76\76\obj\Debug\Pages\ListeleAlbüm.g.cs
+C:\Users\win7\Desktop\76\76\obj\Debug\Pages\ListeleAlbümŞarkı.g.cs
+C:\Users\win7\Desktop\76\76\obj\Debug\Pages\ListeleKayıtYeri.g.cs
+C:\Users\win7\Desktop\76\76\obj\Debug\Pages\ListeleŞarkı.g.cs
+C:\Users\win7\Desktop\76\76\obj\Debug\Pages\ListeleŞarkıcı.g.cs
+C:\Users\win7\Desktop\76\76\obj\Debug\App.g.cs
+C:\Users\win7\Desktop\76\76\obj\Debug\76_Content.g.cs
+C:\Users\win7\Desktop\76\76\obj\Debug\76_MarkupCompile.cache
+C:\Users\win7\Desktop\76\76\obj\Debug\76_MarkupCompile.lref
+C:\Users\win7\Desktop\76\76\obj\Debug\MainWindow.baml
+C:\Users\win7\Desktop\76\76\obj\Debug\Pages\KayıtAlbüm.baml
+C:\Users\win7\Desktop\76\76\obj\Debug\Pages\KayıtAlbümŞarkı.baml
+C:\Users\win7\Desktop\76\76\obj\Debug\Pages\KayıtKayıtYeri.baml
+C:\Users\win7\Desktop\76\76\obj\Debug\Pages\KayıtŞarkı.baml
+C:\Users\win7\Desktop\76\76\obj\Debug\Pages\KayıtŞarkıcı.baml
+C:\Users\win7\Desktop\76\76\obj\Debug\Pages\ListeleAlbüm.baml
+C:\Users\win7\Desktop\76\76\obj\Debug\Pages\ListeleAlbümŞarkı.baml
+C:\Users\win7\Desktop\76\76\obj\Debug\Pages\ListeleKayıtYeri.baml
+C:\Users\win7\Desktop\76\76\obj\Debug\Pages\ListeleŞarkı.baml
+C:\Users\win7\Desktop\76\76\obj\Debug\Pages\ListeleŞarkıcı.baml
+C:\Users\win7\Desktop\76\76\obj\Debug\76.g.resources
+C:\Users\win7\Desktop\76\76\obj\Debug\_76.Properties.Resources.resources
+C:\Users\win7\Desktop\76\76\obj\Debug\76.csproj.GenerateResource.Cache
+C:\Users\win7\Desktop\76\76\obj\Debug\Pages\Anasayfa.g.cs
+C:\Users\win7\Desktop\76\76\obj\Debug\Pages\Anasayfa.baml
+C:\Users\L12\Desktop\76\76\bin\Debug\76.exe.config
+C:\Users\L12\Desktop\76\76\obj\Debug\76.exe
+C:\Users\L12\Desktop\76\76\obj\Debug\76.pdb
+C:\Users\L12\Desktop\76\76\bin\Debug\Db.mdf
+C:\Users\L12\Desktop\76\76\bin\Debug\Db_log.ldf
+C:\Users\L12\Desktop\76\76\bin\Debug\76.exe
+C:\Users\L12\Desktop\76\76\bin\Debug\76.pdb
+C:\Users\L12\Desktop\76\76\obj\Debug\MainWindow.g.cs
+C:\Users\L12\Desktop\76\76\obj\Debug\Pages\Anasayfa.g.cs
+C:\Users\L12\Desktop\76\76\obj\Debug\Pages\KayıtAlbüm.g.cs
+C:\Users\L12\Desktop\76\76\obj\Debug\Pages\KayıtAlbümŞarkı.g.cs
+C:\Users\L12\Desktop\76\76\obj\Debug\Pages\KayıtKayıtYeri.g.cs
+C:\Users\L12\Desktop\76\76\obj\Debug\Pages\KayıtŞarkı.g.cs
+C:\Users\L12\Desktop\76\76\obj\Debug\Pages\KayıtŞarkıcı.g.cs
+C:\Users\L12\Desktop\76\76\obj\Debug\Pages\ListeleAlbüm.g.cs
+C:\Users\L12\Desktop\76\76\obj\Debug\Pages\ListeleAlbümŞarkı.g.cs
+C:\Users\L12\Desktop\76\76\obj\Debug\Pages\ListeleKayıtYeri.g.cs
+C:\Users\L12\Desktop\76\76\obj\Debug\Pages\ListeleŞarkı.g.cs
+C:\Users\L12\Desktop\76\76\obj\Debug\Pages\ListeleŞarkıcı.g.cs
+C:\Users\L12\Desktop\76\76\obj\Debug\App.g.cs
+C:\Users\L12\Desktop\76\76\obj\Debug\76_Content.g.cs
+C:\Users\L12\Desktop\76\76\obj\Debug\76_MarkupCompile.cache
+C:\Users\L12\Desktop\76\76\obj\Debug\76_MarkupCompile.lref
+C:\Users\L12\Desktop\76\76\obj\Debug\MainWindow.baml
+C:\Users\L12\Desktop\76\76\obj\Debug\Pages\Anasayfa.baml
+C:\Users\L12\Desktop\76\76\obj\Debug\Pages\KayıtAlbüm.baml
+C:\Users\L12\Desktop\76\76\obj\Debug\Pages\KayıtAlbümŞarkı.baml
+C:\Users\L12\Desktop\76\76\obj\Debug\Pages\KayıtKayıtYeri.baml
+C:\Users\L12\Desktop\76\76\obj\Debug\Pages\KayıtŞarkı.baml
+C:\Users\L12\Desktop\76\76\obj\Debug\Pages\KayıtŞarkıcı.baml
+C:\Users\L12\Desktop\76\76\obj\Debug\Pages\ListeleAlbüm.baml
+C:\Users\L12\Desktop\76\76\obj\Debug\Pages\ListeleAlbümŞarkı.baml
+C:\Users\L12\Desktop\76\76\obj\Debug\Pages\ListeleKayıtYeri.baml
+C:\Users\L12\Desktop\76\76\obj\Debug\Pages\ListeleŞarkı.baml
+C:\Users\L12\Desktop\76\76\obj\Debug\Pages\ListeleŞarkıcı.baml
+C:\Users\L12\Desktop\76\76\obj\Debug\76.g.resources
+C:\Users\L12\Desktop\76\76\obj\Debug\_76.Properties.Resources.resources
+C:\Users\L12\Desktop\76\76\obj\Debug\76.csproj.GenerateResource.Cache
+C:\Users\mkizi\Desktop\eski sistem\Okul ile alakalı\flashyedek\76\76\bin\Debug\Db.mdf
+C:\Users\mkizi\Desktop\eski sistem\Okul ile alakalı\flashyedek\76\76\bin\Debug\Db_log.ldf
+C:\Users\mkizi\Desktop\eski sistem\Okul ile alakalı\flashyedek\76\76\bin\Debug\76.exe.config
+C:\Users\mkizi\Desktop\eski sistem\Okul ile alakalı\flashyedek\76\76\bin\Debug\76.exe
+C:\Users\mkizi\Desktop\eski sistem\Okul ile alakalı\flashyedek\76\76\bin\Debug\76.pdb
+C:\Users\mkizi\Desktop\eski sistem\Okul ile alakalı\flashyedek\76\76\obj\Debug\76.csprojAssemblyReference.cache
+C:\Users\mkizi\Desktop\eski sistem\Okul ile alakalı\flashyedek\76\76\obj\Debug\MainWindow.g.cs
+C:\Users\mkizi\Desktop\eski sistem\Okul ile alakalı\flashyedek\76\76\obj\Debug\Pages\Anasayfa.g.cs
+C:\Users\mkizi\Desktop\eski sistem\Okul ile alakalı\flashyedek\76\76\obj\Debug\Pages\KayıtAlbüm.g.cs
+C:\Users\mkizi\Desktop\eski sistem\Okul ile alakalı\flashyedek\76\76\obj\Debug\Pages\KayıtAlbümŞarkı.g.cs
+C:\Users\mkizi\Desktop\eski sistem\Okul ile alakalı\flashyedek\76\76\obj\Debug\Pages\KayıtKayıtYeri.g.cs
+C:\Users\mkizi\Desktop\eski sistem\Okul ile alakalı\flashyedek\76\76\obj\Debug\Pages\KayıtŞarkı.g.cs
+C:\Users\mkizi\Desktop\eski sistem\Okul ile alakalı\flashyedek\76\76\obj\Debug\Pages\KayıtŞarkıcı.g.cs
+C:\Users\mkizi\Desktop\eski sistem\Okul ile alakalı\flashyedek\76\76\obj\Debug\Pages\ListeleAlbüm.g.cs
+C:\Users\mkizi\Desktop\eski sistem\Okul ile alakalı\flashyedek\76\76\obj\Debug\Pages\ListeleAlbümŞarkı.g.cs
+C:\Users\mkizi\Desktop\eski sistem\Okul ile alakalı\flashyedek\76\76\obj\Debug\Pages\ListeleKayıtYeri.g.cs
+C:\Users\mkizi\Desktop\eski sistem\Okul ile alakalı\flashyedek\76\76\obj\Debug\Pages\ListeleŞarkı.g.cs
+C:\Users\mkizi\Desktop\eski sistem\Okul ile alakalı\flashyedek\76\76\obj\Debug\Pages\ListeleŞarkıcı.g.cs
+C:\Users\mkizi\Desktop\eski sistem\Okul ile alakalı\flashyedek\76\76\obj\Debug\App.g.cs
+C:\Users\mkizi\Desktop\eski sistem\Okul ile alakalı\flashyedek\76\76\obj\Debug\76_Content.g.cs
+C:\Users\mkizi\Desktop\eski sistem\Okul ile alakalı\flashyedek\76\76\obj\Debug\76_MarkupCompile.cache
+C:\Users\mkizi\Desktop\eski sistem\Okul ile alakalı\flashyedek\76\76\obj\Debug\76_MarkupCompile.lref
+C:\Users\mkizi\Desktop\eski sistem\Okul ile alakalı\flashyedek\76\76\obj\Debug\MainWindow.baml
+C:\Users\mkizi\Desktop\eski sistem\Okul ile alakalı\flashyedek\76\76\obj\Debug\Pages\Anasayfa.baml
+C:\Users\mkizi\Desktop\eski sistem\Okul ile alakalı\flashyedek\76\76\obj\Debug\Pages\KayıtAlbüm.baml
+C:\Users\mkizi\Desktop\eski sistem\Okul ile alakalı\flashyedek\76\76\obj\Debug\Pages\KayıtAlbümŞarkı.baml
+C:\Users\mkizi\Desktop\eski sistem\Okul ile alakalı\flashyedek\76\76\obj\Debug\Pages\KayıtKayıtYeri.baml
+C:\Users\mkizi\Desktop\eski sistem\Okul ile alakalı\flashyedek\76\76\obj\Debug\Pages\KayıtŞarkı.baml
+C:\Users\mkizi\Desktop\eski sistem\Okul ile alakalı\flashyedek\76\76\obj\Debug\Pages\KayıtŞarkıcı.baml
+C:\Users\mkizi\Desktop\eski sistem\Okul ile alakalı\flashyedek\76\76\obj\Debug\Pages\ListeleAlbüm.baml
+C:\Users\mkizi\Desktop\eski sistem\Okul ile alakalı\flashyedek\76\76\obj\Debug\Pages\ListeleAlbümŞarkı.baml
+C:\Users\mkizi\Desktop\eski sistem\Okul ile alakalı\flashyedek\76\76\obj\Debug\Pages\ListeleKayıtYeri.baml
+C:\Users\mkizi\Desktop\eski sistem\Okul ile alakalı\flashyedek\76\76\obj\Debug\Pages\ListeleŞarkı.baml
+C:\Users\mkizi\Desktop\eski sistem\Okul ile alakalı\flashyedek\76\76\obj\Debug\Pages\ListeleŞarkıcı.baml
+C:\Users\mkizi\Desktop\eski sistem\Okul ile alakalı\flashyedek\76\76\obj\Debug\76.g.resources
+C:\Users\mkizi\Desktop\eski sistem\Okul ile alakalı\flashyedek\76\76\obj\Debug\_76.Properties.Resources.resources
+C:\Users\mkizi\Desktop\eski sistem\Okul ile alakalı\flashyedek\76\76\obj\Debug\76.csproj.GenerateResource.cache
+C:\Users\mkizi\Desktop\eski sistem\Okul ile alakalı\flashyedek\76\76\obj\Debug\76.csproj.CoreCompileInputs.cache
+C:\Users\mkizi\Desktop\eski sistem\Okul ile alakalı\flashyedek\76\76\obj\Debug\76.exe
+C:\Users\mkizi\Desktop\eski sistem\Okul ile alakalı\flashyedek\76\76\obj\Debug\76.pdb

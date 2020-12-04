@@ -1,0 +1,34 @@
+﻿<Page x:Class="_76.Pages.ListeleKayıtYeri"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+      xmlns:local="clr-namespace:_76.Pages"
+      mc:Ignorable="d" 
+      d:DesignHeight="300" d:DesignWidth="300"
+      Title="ListeleKayıtYeri">
+    <Page.Resources>
+        <DataTemplate x:Key="DataTemplate">
+            <Grid>
+                <Image x:Name="image" Height="60" Width="60" Source="{Binding Resim}"/>
+            </Grid>
+        </DataTemplate>
+    </Page.Resources>
+
+    <Grid Background="White">
+        <DataGrid x:Name="dg" AutoGenerateColumns="False" >
+            <DataGrid.ContextMenu>
+                <ContextMenu>
+                    <MenuItem Header="Sil" Click="miSil_Click"/>
+                    <MenuItem Header="Güncelle" Click="miGüncelle_Click"/>
+                </ContextMenu>
+            </DataGrid.ContextMenu>
+            
+            <DataGrid.Columns>
+                <DataGridTemplateColumn ClipboardContentBinding="{x:Null}" CellTemplate="{StaticResource DataTemplate}" Header="Resim"/>
+                <DataGridTextColumn Binding="{Binding KayıtYeriAdı}" ClipboardContentBinding="{x:Null}" Header="Kayıt Yeri"/>
+            </DataGrid.Columns>
+        </DataGrid>
+
+    </Grid>
+</Page>

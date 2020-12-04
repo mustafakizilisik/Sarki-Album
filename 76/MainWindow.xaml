@@ -1,0 +1,33 @@
+﻿<Window x:Class="_76.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:_76"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="350" Width="525">
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition />
+        </Grid.RowDefinitions>
+
+        <Menu>
+            <MenuItem Header="Listele">
+                <MenuItem Header="Şarkıcı" Tag="ListeleŞarkıcı" Click="mi_Click"/>
+                <MenuItem Header="Şarkı" Tag="ListeleŞarkı" Click="mi_Click"/>
+                <MenuItem Header="Albüm" Tag="ListeleAlbüm" Click="mi_Click"/>
+                <MenuItem Header="Albüm Şarkıları" Tag="ListeleAlbümŞarkı" Click="mi_Click"/>
+                <MenuItem Header="Kayıt Yeri" Tag="ListeleKayıtYeri" Click="mi_Click"/>
+            </MenuItem>
+            <MenuItem Header="Kayıt">
+                <MenuItem Header="Şarkıcı" Tag="KayıtŞarkıcı" Click="mi_Click"/>
+                <MenuItem Header="Şarkı" Tag="KayıtŞarkı" Click="mi_Click"/>
+                <MenuItem Header="Albüm" Tag="KayıtAlbüm" Click="mi_Click"/>
+                <MenuItem Header="Albüm Şarkıları" Tag="KayıtAlbümŞarkı" Click="mi_Click"/>
+                <MenuItem Header="Kayıt Yeri" Tag="KayıtKayıtYeri" Click="mi_Click"/>
+            </MenuItem>
+        </Menu>
+        <Frame x:Name="frame" Grid.Row="1" Source="/76;component/Pages/Anasayfa.xaml" NavigationUIVisibility="Hidden"/>
+    </Grid>
+</Window>

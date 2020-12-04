@@ -1,0 +1,31 @@
+﻿<Page x:Class="_76.Pages.KayıtAlbüm"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+      xmlns:local="clr-namespace:_76.Pages"
+      mc:Ignorable="d" 
+      d:DesignHeight="300" d:DesignWidth="300"
+      Title="KayıtAlbüm">
+
+    <Grid Background="White">
+        <StackPanel HorizontalAlignment="Center" VerticalAlignment="Center">
+             <StackPanel Orientation="Horizontal">
+                  <StackPanel >
+                    <TextBlock Text="Albüm Adı:" Width="70" Margin="5" Height="24"/>
+                    <TextBlock Text="Albüm Yılı:" Width="70" Margin="5" Height="24"/>
+                    <TextBlock Text="Kayıt Yeri:" Width="70" Margin="5" Height="24"/>
+                    <TextBlock Text="Resim:" Width="70" Margin="5" Height="24"/>
+                </StackPanel>
+                 <StackPanel>
+                    <TextBox x:Name="tbAlbümAd" Width="100" Margin="5" Height="24"/>
+                    <DatePicker x:Name="dpAlbümYıl" Width="100" Margin="5" Height="24"/>
+                    <ComboBox x:Name="cbKayıtYeri" Width="100" DisplayMemberPath="KayıtYeriAdı" SelectedValuePath="Id" Margin="5" Height="24"/>
+                    <Button x:Name="btnResimEkle" Content="Resim Ekle" Margin="5" Click="btnResimEkle_Click" Height="24"/>
+                    <Image x:Name="imgResim" Margin="5" Width="100" Height="80"/>
+                </StackPanel>
+        </StackPanel>
+            <Button x:Name="btnKaydet" Content="Kaydet" Width="80" Margin="5" Click="btnKaydet_Click"/>
+        </StackPanel>
+    </Grid>
+</Page>
